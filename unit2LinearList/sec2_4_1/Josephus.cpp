@@ -24,6 +24,8 @@
  * 最初编号为7 的旅客将赢得环球旅游的机会
  * 
  * */
+
+
 using std::cout;
 using std::cin;
 template <class T>
