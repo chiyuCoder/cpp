@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "*.html": "html",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xutility": "cpp"
     },
     "cSpell.words": [
         "Fibnacci",
