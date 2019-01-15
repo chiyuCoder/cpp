@@ -2,7 +2,8 @@
     "files.associations": {
         "*.html": "html",
         "iostream": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "ostream": "cpp"
     },
     "cSpell.words": [
         "Fibnacci",
